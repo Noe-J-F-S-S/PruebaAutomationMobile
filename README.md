@@ -1,2 +1,2 @@
 # QAInnovationLab
-Automation Team / For education purpose
+Automation Mobile
